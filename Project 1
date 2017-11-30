@@ -1,0 +1,33 @@
+<DOCTYPE html>
+<head>
+<title>Daisy</title>
+<style>
+body{
+	text align: left;
+	background url("https://imgur.com/c28KfdV");
+	background size: cover;
+	background position: center;
+	color: pink;
+	font-family: Mona Lisa;
+}
+p{
+	font-size: 30px;
+}
+input{
+	border: 0;
+	padding: 12px;
+	font-size: 25px
+}
+input[type="submit"]{
+	background: pink;
+	color: white
+}
+</style>
+</head>
+
+<body>
+<img src="https://imgur.com/UUFnHl1"
+<p> Hi! I'm Daisy, a lover of all things sweet. Say hello!</p>
+<input type="email" placeholder="Your email">
+<input type="submit"> 
+</body>
